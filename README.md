@@ -43,7 +43,7 @@ mon_projet/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/FlorianPierard/python_project_template.git [Your project name]
-cd new_project
+cd [Your project name]
 ```
 
 ### 2. Create a virtual environment
