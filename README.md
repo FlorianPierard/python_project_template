@@ -23,8 +23,7 @@ mon_projet/
 │
 ├── data/               # Static files (datasets, images, templates)
 │   ├── datasets/
-│   ├── images/
-│   └── templates/
+│   └── images/
 │
 ├── tests/                   # Unit and integration tests
 ├── docs/                    # Documentation (Sphinx, MkDocs, etc.)
