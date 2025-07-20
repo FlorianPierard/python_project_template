@@ -21,7 +21,7 @@ mon_projet/
 │       ├── models/          # Machine learning models or weights
 │       └── utils/           # Utility functions
 │
-├── resources/               # Static files (datasets, images, templates)
+├── data/               # Static files (datasets, images, templates)
 │   ├── datasets/
 │   ├── images/
 │   └── templates/
