@@ -1,0 +1,1 @@
+Store only lightweights images en GitHub

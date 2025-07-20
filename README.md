@@ -28,7 +28,6 @@ mon_projet/
 │
 ├── tests/                   # Unit and integration tests
 ├── docs/                    # Documentation (Sphinx, MkDocs, etc.)
-├── data/                    # Storing lightweight data
 │
 ├── .env                     # Environment variables (secrets) – ignored by Git
 ├── .gitignore               # Preconfigured to exclude venv, .env, and temporary files
